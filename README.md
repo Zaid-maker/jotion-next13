@@ -2,6 +2,9 @@
 
 Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind
 
+> [!Warning]
+> This project uses Nextjs 13, Nextjs 14 has some errors.
+
 ## Key Features
 
 - Real-time database 🔗
